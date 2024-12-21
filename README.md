@@ -1,30 +1,31 @@
-# Data-Analysis---Stacked-Bar-Chart-with-Grouping-Variable
+📊 Data Analysis: Stacked Bar Chart with Grouping Variable
 
-## Project Overview
-This project involves constructing a stacked bar chart to analyze the preferred types of assessment among students, segmented by their athletic status. The analysis helps understand assessment preferences across different groups, highlighting unique trends and insights.
+🌟 Project Overview
+This project constructs a stacked bar chart to analyze student preferences for different types of assessments, segmented by their athletic status. It aims to uncover unique trends and insights into how different groups of students favor various assessment types.
 
-## Objectives
-- To visualize the distribution of assessment preferences among students.
-- To compare these preferences across different athletic statuses.
-- To identify which assessment type is most favored by students with different athletic experiences.
+🎯 Objectives
+Visualize the distribution of assessment preferences among students.
+Compare these preferences across different athletic statuses.
+Identify the most favored assessment type among students with varied athletic experiences.
 
-## Methods Used
-- Data visualization using R and ggplot2.
-- Statistical analysis to compute proportions and understand trends.
+🛠️ Methods Used
+Data Visualization: Utilizing R and ggplot2 to craft insightful graphs.
+Statistical Analysis: Computing proportions to decipher trends.
 
-## Results
-- "No" athlete status group showed the lowest preference for course projects.
-- Students who competed only in high school favored 'Course Projects' the most.
-- 44.2% of students overall prefer course projects.
+📈 Results
+Students with no athletic status show the lowest preference for course projects.
+Former high school athletes demonstrate the highest favorability towards 'Course Projects'.
+Overall, 44.2% of students prefer course projects as their type of assessment.
 
-## Conclusions
-This analysis provides valuable insights into how athletic participation can influence academic preferences, specifically in the type of assessments students prefer.
+📝 Conclusions
+This analysis sheds light on the impact of athletic participation on academic preferences, particularly in the choices of assessments students prefer.
 
-## How to Run the Project
-- Required software: R and RStudio.
-- Required libraries: ggplot2.
+🚀 How to Run the Project
+Required Software: R and RStudio.
+Required Libraries: ggplot2.
 
-## File Descriptions
-- `stacked_bar_chart_analysis.R`: This file contains all the R code used for generating the visualizations and calculations.
-- `dataset.csv`: Data file used for the analysis (if public, otherwise describe the data structure required to replicate the analysis).
-
+📌 Instructions
+Install R and RStudio on your machine.
+Open the project file in RStudio.
+Install the ggplot2 library using install.packages("ggplot2").
+Run the script to generate the stacked bar chart.
