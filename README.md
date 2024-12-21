@@ -1,7 +1,3 @@
-Sure, I can help you make the README more engaging with emojis and a clearer format. Here's an improved version:
-
----
-
 # 📊 Data Analysis: Stacked Bar Chart with Grouping Variable
 
 ## 🌟 Project Overview
